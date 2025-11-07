@@ -3,7 +3,7 @@ services:
     name: SMD-RENDER
     env: node
     plan: free
-    repo: https://github.com/iTx-Sarkar/SMD-Render
+    repo: https://github.com/callmebroser2244/SHABAN-MD.git
     branch: main
     buildCommand: npm install
     startCommand: npm start
