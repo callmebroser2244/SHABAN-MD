@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: SMD-RENDER
+    name: LINUX_SER
     env: node
     plan: free
     repo: https://github.com/callmebroser2244/SHABAN-MD.git
